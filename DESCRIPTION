@@ -1,0 +1,10 @@
+Package: netnew
+Type: Package
+Title: A package to reproduce Mele (2015)
+Version: 1.0
+Date: 2014-06-24
+Author: Angelo Mele	<angelo.mele@jhu.edu>
+Maintainer: Angelo Mele <angelo.mele@jhu.edu>
+Description: Collections of functions to simulate, estimate and analyse the
+    models in Mele (2015).
+License: GPL
