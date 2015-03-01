@@ -1,6 +1,8 @@
 # netnew: a replication package for Mele (2015)
 This is an R package for replication of the methods and analysis in __A Structural Model of Segregation in Social Networks__. 
 
+### Installation
+
 To install the package from the Github repository, you need to have `devtools` already installed.   
 If you don't have the `devtools`, install it using the following command
 
