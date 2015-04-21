@@ -62,13 +62,15 @@ tail(net)
 9999    718     26     5227
 10000   719     26     5244
 ```
+ 
+We can visualize the convergence of the algorithm using 
+
+```r
+plot.ts(net)
+```
 
 
-### General method for simulating models
-TBA
+### A tutorial for simulations of models
 
-### Estimating a model using the exchange algorithm
-TBA
-
-### Simulating a model, getting a network adjacency matrix as output
-TBA
+Here is a tutorial vignette that explains some more detail    
+[vignette](vignette.pdf)
